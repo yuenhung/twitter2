@@ -20,15 +20,15 @@ Time spent: `30 hours`
     
 #### Optional
 
-- [] Profile page
-	- [] Implement the paging view for the user description.
-	- [] As the paging view moves, increase the opacity of the background screen. See the actual Twitter app for this effect
-	- [] Pulling down the profile page should blur and resize the header image.
+- [ ] Profile page
+	- [ ] Implement the paging view for the user description.
+	- [ ] As the paging view moves, increase the opacity of the background screen. See the actual Twitter app for this effect
+	- [ ] Pulling down the profile page should blur and resize the header image.
 
-- [] Account switching (basic layout)
-	- [] Tap account to switch to
-	- [] Include a plus button to Add an Account
-	- [] Swipe to delete an account
+- [ ] Account switching (basic layout)
+	- [ ] Tap account to switch to
+	- [ ] Include a plus button to Add an Account
+	- [ ] Swipe to delete an account
 
 ### Walkthrough
 
